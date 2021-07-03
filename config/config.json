@@ -1,0 +1,14 @@
+{
+    "local": {
+        "USER": "postgres",
+        "password": "postgres",
+        "DB": "demo2",
+        "HOST": "localhost",
+        "dialect": "postgres",
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "idle": 10000
+        }
+    }
+}
